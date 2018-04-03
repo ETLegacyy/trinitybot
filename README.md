@@ -4,7 +4,7 @@ You can translate Trinity in any language and i will be more than happy to imple
 Things like `{e}` or `+ i +` or emojis like `<:notdone:334852376034803714>`! Things like `"manageChannels":` etc.., don't need to be translated.
 
 <h3>Formating</h3>
-You will more likely to see:
+You will more likely to see:\n
 **This is a format**
 *This is a format*
 **__This is a format__**
