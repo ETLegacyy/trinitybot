@@ -5,9 +5,10 @@ Things like `{e}` or `+ i +` or emojis like `<:notdone:334852376034803714>`! Thi
 
 <h3>Formating</h3>
 You will more likely to see:
-`**This is a format**`
-`*This is a format`
-`**__This is a format__**`
+**This is a format**
+*This is a format*
+**__This is a format__**
+`This is a format`
 `[Format this](https://but-not.this)`
 
 Other things:
