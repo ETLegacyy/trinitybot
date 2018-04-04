@@ -17,8 +17,8 @@ Other things:
 2. Command arguments like `<true|false>` shouldn't be translated at all.
 
 Other things you should remember:
-1. `:emojiName:`
-2. `{user} or {server.name}`
+1. `:emojiName:` (DONT TRANSLATE)
+2. `{user} or {server.name}`(DONT TRANSLATE)
 
 Please make sure everything is right.
 
