@@ -22,4 +22,4 @@ Other things you should remember:
 
 Please make sure everything is right.
 
-**Note:** If you don't understand anything or you need help feel free to DM ETLegacy™#9999 on Discord, if you are interested in joining the Translation team, DM me still.
+**Note:** If you don't understand anything or you need help feel free to DM ETLegacy#9999 on Discord, if you are interested in joining the Translation team, DM me still.
